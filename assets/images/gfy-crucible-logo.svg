@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="180" viewBox="0 0 640 180" role="img" aria-labelledby="title desc">
+  <title id="title">GFY Crucible logo</title>
+  <desc id="desc">Industrial wordmark reading GFY Crucible and Gordon, Fisher &amp; Young Crucible.</desc>
+  <rect width="640" height="180" fill="#1E2023"/>
+  <rect x="16" y="16" width="608" height="148" rx="8" fill="#2F3439" stroke="#68727C" stroke-width="2"/>
+  <rect x="30" y="30" width="12" height="120" fill="#C56A2A"/>
+  <text x="60" y="92" fill="#F3F0EA" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="1">GFY Crucible</text>
+  <text x="62" y="126" fill="#A8793D" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600">Gordon, Fisher &amp; Young Crucible</text>
+</svg>
